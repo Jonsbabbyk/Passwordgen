@@ -1,6 +1,6 @@
 # Passwordgen
 Password generator created using python scripts
-![Screenshot (13)](https://github.com/user-attachments/assets/a20c0b0d-fdce-4ef6-b4fe-99cad5cfdbe0)
+![Screenshot (14)](https://github.com/user-attachments/assets/80e6652f-d075-4e59-833f-61315df33e57)
 ## Step 1:Install Flask
    pip install Flask
 
